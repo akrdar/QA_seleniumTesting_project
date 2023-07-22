@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T00:14:01 EDT" name="Surefire suite" finished-at="2023-07-20T00:14:36 EDT" duration-ms="35173">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T00:14:01 EDT" name="Surefire test" finished-at="2023-07-20T00:14:36 EDT" duration-ms="35173">
+      <class name="com_Selenium.seleniumTesting.TestJenkins">
+        <test-method signature="openGoogle()[pri:0, instance:com_Selenium.seleniumTesting.TestJenkins@7a52f2a2]" started-at="2023-07-20T00:14:01 EDT" name="openGoogle" finished-at="2023-07-20T00:14:20 EDT" duration-ms="19275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method signature="typeInGoogle()[pri:0, instance:com_Selenium.seleniumTesting.TestJenkins@7a52f2a2]" started-at="2023-07-20T00:14:20 EDT" name="typeInGoogle" finished-at="2023-07-20T00:14:36 EDT" duration-ms="15868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeInGoogle -->
+      </class> <!-- com_Selenium.seleniumTesting.TestJenkins -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
